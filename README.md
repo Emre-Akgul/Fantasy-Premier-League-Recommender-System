@@ -5,8 +5,6 @@
 
 This project uses data from the Fantasy Premier League historical dataset:
 
-This project uses data from the Fantasy Premier League historical dataset:
-
 Title: FPL Historical Dataset
 Author: Anand, Vaastav
 Year: 2023
