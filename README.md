@@ -21,9 +21,6 @@ Source: Retrieved November 30th, 2023, from https://github.com/vaastav/Fantasy-P
 2. **Installation**: Clone this repo and install dependencies with `pip install -r requirements.txt`.
 3. **Usage**: Execute the main script to generate your optimized team. Adjust parameters as needed.
 
-## Data Source
-Data from the official Fantasy Premier League website, preprocessed for model compatibility.
-
 ## Contributing
 Contributions are welcome. Please fork the repo and submit a pull request with your changes.
 
